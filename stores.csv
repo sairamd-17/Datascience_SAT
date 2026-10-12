@@ -1,0 +1,4 @@
+store,city,store_type,customer_count,region
+Store_A,Chennai,Supermarket,1200,South
+Store_B,Bengaluru,Hypermarket,3400,South
+Store_C,Mumbai,Supermarket,2100,West

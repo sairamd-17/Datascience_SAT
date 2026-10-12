@@ -1,0 +1,5 @@
+store,product,opening,received,sold,closing,reorder_level,lead_time
+Store_A,Prod_1,100,20,30,90,40,3
+Store_B,Prod_2,50,10,40,20,30,5
+Store_C,Prod_3,200,50,60,190,50,2
+Store_A,Prod_4,80,10,25,65,35,4

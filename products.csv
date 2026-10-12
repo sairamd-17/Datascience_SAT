@@ -1,0 +1,5 @@
+product,category,brand,price,shelf_life,supplier
+Prod_1,Staples,BrandX,45,30,SupA
+Prod_2,Dairy,Unknown,110,7,SupB
+Prod_3,Beverages,BrandY,190,90,SupA
+Prod_4,Staples,BrandZ,75,30,SupC
